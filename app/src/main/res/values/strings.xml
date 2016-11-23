@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DeportesFavoritos</string>
+    <string name="deportes_txv_header">Selecciona los deportes que mas te gustan y pulsa \'acpetar\'\"</string>
+
+    <!-- Strings de nombres de deportes -->
+    <string name="baloncesto">Baloncesto</string>
+    <string name="futbol">Futbol</string>
+    <string name="motociclismo">Motociclismo</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="golf">Golf</string>
+    <string name="equitacion">Equitación</string>
+    <string name="balonmano">Balonmano</string>
+    <string name="ajedrez">Ajedréz</string>
+    <string name="boxeo">Boxeo</string>
+    <string name="criquet">Críquet</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="futbol_americano">Fútbol americano</string>
+    <string name="dardos">Dardos</string>
+    <string name="pingpong">PingPong</string>
+    <string name="deportes_btn_aceptar">Aceptar</string>
+    <string name="menu_filtrar">Filtrar deportes</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_titulo">Introduzca una letra</string>
+    <string name="dialog_edit">Introduzca una letra</string>
+    <string name="dialog_aceptar">Buscar</string>
+</resources>
